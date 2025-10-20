@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
 /**
  * Button component with different variants
  * @param {Object} props - Component props
